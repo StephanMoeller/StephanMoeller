@@ -2,7 +2,7 @@
 # My keyboard stuff
 
 ### Zigmkay
-<img width="150" alt="raw" src="https://github.com/user-attachments/assets/31a7f22e-75fd-415e-b2ca-8019af46af0c" />
+[<img width="150" alt="raw" src="https://github.com/user-attachments/assets/31a7f22e-75fd-415e-b2ca-8019af46af0c" />](https://github.com/zigmkay/zigmkay_firmware)
 
 Custom keyboard firmware made in zig using microzig
 <br>
