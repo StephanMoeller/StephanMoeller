@@ -1,5 +1,7 @@
+
 # My keyboard designs
 
+<img width="200" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />
 https://github.com/StephanMoeller/Leonardo-KeycapRio/
 Leonardo Keycaprio: mx, single pcb
 
