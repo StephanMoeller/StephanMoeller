@@ -5,27 +5,28 @@
 <img width="150" alt="raw" src="https://github.com/user-attachments/assets/31a7f22e-75fd-415e-b2ca-8019af46af0c" />
 
 Custom keyboard firmware made in zig using microzig
+<br>
 Repo: https://github.com/zigmkay/zigmkay_firmware
 
 ### Leonardo KeycapRio
 <img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />
 
 Custom mx keyboard with a single pcb
-
+<br>
 Repo: https://github.com/StephanMoeller/Leonardo-KeycapRio/
 
 ### Clacky Chan
 <img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />
 
 Custom mx keyboard with two piece pcb with trrs connection
-
+<br>
 Repo: https://github.com/StephanMoeller/clacky-chan
 
 ### Mike typeson
 <img width="150" alt="i3" src="https://github.com/user-attachments/assets/d3bfd211-4440-4da7-b5d8-814f75104526" />
 
 Custom mx keyboard, three piece pcb, wired as a single matrix
-
+<br>
 https://github.com/StephanMoeller/mike-typeson
 
 ### Skinny Pete
@@ -33,10 +34,11 @@ https://github.com/StephanMoeller/mike-typeson
 
 Custom mx keyboard, hand wired
 <br>
-https://github.com/StephanMoeller/skinnypete32
+Repo: https://github.com/StephanMoeller/skinnypete32
 
 ### Wilson 26
 <img width="150" alt="i5" src="https://github.com/user-attachments/assets/eaf72841-36c2-4dec-9175-28eef0fbc920" />
-
+<br>
 Custom mx keyboard, hand wired
-https://github.com/StephanMoeller/wilson26
+<br>
+Repo: https://github.com/StephanMoeller/wilson26
