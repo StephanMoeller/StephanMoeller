@@ -9,35 +9,35 @@ Custom keyboard firmware made in zig using microzig
 Repo: https://github.com/zigmkay/zigmkay_firmware
 
 ### Leonardo KeycapRio
-<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />
+[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />](https://github.com/StephanMoeller/Leonardo-KeycapRio/)
 
 Custom mx keyboard with a single pcb
 <br>
 Repo: https://github.com/StephanMoeller/Leonardo-KeycapRio/
 
 ### Clacky Chan
-<img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />
+[<img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />](https://github.com/StephanMoeller/clacky-chan)
 
 Custom mx keyboard with two piece pcb with trrs connection
 <br>
 Repo: https://github.com/StephanMoeller/clacky-chan
 
 ### Mike typeson
-<img width="150" alt="i3" src="https://github.com/user-attachments/assets/d3bfd211-4440-4da7-b5d8-814f75104526" />
+[<img width="150" alt="i3" src="https://github.com/user-attachments/assets/d3bfd211-4440-4da7-b5d8-814f75104526" />](https://github.com/StephanMoeller/mike-typeson)
 
 Custom mx keyboard, three piece pcb, wired as a single matrix
 <br>
 Repo: https://github.com/StephanMoeller/mike-typeson
 
 ### Skinny Pete 32
-<img width="150" alt="i4" src="https://github.com/user-attachments/assets/3414384c-2089-4787-885a-2be3039700bb" />
+[<img width="150" alt="i4" src="https://github.com/user-attachments/assets/3414384c-2089-4787-885a-2be3039700bb" />](https://github.com/StephanMoeller/skinnypete32)
 
 Custom mx keyboard, hand wired
 <br>
 Repo: https://github.com/StephanMoeller/skinnypete32
 
 ### Wilson 26
-<img width="150" alt="i5" src="https://github.com/user-attachments/assets/eaf72841-36c2-4dec-9175-28eef0fbc920" />
+[<img width="150" alt="i5" src="https://github.com/user-attachments/assets/eaf72841-36c2-4dec-9175-28eef0fbc920" />](https://github.com/StephanMoeller/wilson26)
 <br>
 Custom mx keyboard, hand wired
 <br>
