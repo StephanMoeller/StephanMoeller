@@ -29,7 +29,7 @@ Custom mx keyboard, three piece pcb, wired as a single matrix
 <br>
 Repo: https://github.com/StephanMoeller/mike-typeson
 
-### Skinny Pete
+### Skinny Pete 32
 <img width="150" alt="i4" src="https://github.com/user-attachments/assets/3414384c-2089-4787-885a-2be3039700bb" />
 
 Custom mx keyboard, hand wired
