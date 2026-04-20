@@ -1,9 +1,10 @@
 
 # My keyboard designs
 
+## Leonardo KeycapRio: mx, single pc
 <img width="200" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />
-https://github.com/StephanMoeller/Leonardo-KeycapRio/
-Leonardo Keycaprio: mx, single pcb
+
+Repo: https://github.com/StephanMoeller/Leonardo-KeycapRio/
 
 https://github.com/StephanMoeller/clacky-chan
 Clacky Chan: mx, two piece pcb with trrs connection
