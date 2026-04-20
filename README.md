@@ -27,7 +27,7 @@ Repo: https://github.com/StephanMoeller/clacky-chan
 
 Custom mx keyboard, three piece pcb, wired as a single matrix
 <br>
-https://github.com/StephanMoeller/mike-typeson
+Repo: https://github.com/StephanMoeller/mike-typeson
 
 ### Skinny Pete
 <img width="150" alt="i4" src="https://github.com/user-attachments/assets/3414384c-2089-4787-885a-2be3039700bb" />
