@@ -1,16 +1,16 @@
-## Hi there 👋
+# My keyboard designs
 
-<!--
-**StephanMoeller/StephanMoeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/StephanMoeller/Leonardo-KeycapRio/
+Leonardo Keycaprio: mx, single pcb
 
-Here are some ideas to get you started:
+https://github.com/StephanMoeller/clacky-chan
+Clacky Chan: mx, two piece pcb with trrs connection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/StephanMoeller/mike-typeson
+Mike typeson: mx, tree piece pcb, wired as a single matrix
+
+https://github.com/StephanMoeller/skinnypete32
+Skinny Pete: mx, hand wired
+
+https://github.com/StephanMoeller/wilson26
+Wilson 26: mx, hand wired
