@@ -22,7 +22,7 @@ Custom mx keyboard with two piece pcb with trrs connection
 <br>
 Repo: https://github.com/StephanMoeller/clacky-chan
 
-### Mike typeson
+### Mike Typeson
 [<img width="150" alt="i3" src="https://github.com/user-attachments/assets/d3bfd211-4440-4da7-b5d8-814f75104526" />](https://github.com/StephanMoeller/mike-typeson)
 
 Custom mx keyboard, three piece pcb, wired as a single matrix
