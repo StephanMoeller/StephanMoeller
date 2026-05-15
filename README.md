@@ -8,6 +8,14 @@ Custom keyboard firmware made in zig using microzig
 <br>
 Repo: https://github.com/zigmkay/zigmkay_firmware
 
+### Tucky Two Times
+[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />](https://github.com/StephanMoeller/Leonardo-KeycapRio/)
+
+Custom chocv2 (+v1) hotswap keyboard with rotary encoders.
+<br>
+Repo: https://github.com/StephanMoeller/Tucky-two-times/
+
+
 ### Leonardo KeycapRio
 [<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />](https://github.com/StephanMoeller/Leonardo-KeycapRio/)
 
