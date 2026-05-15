@@ -1,5 +1,3 @@
-<img width="640" height="481" alt="st" src="https://github.com/user-attachments/assets/25448916-a8e2-4309-870c-753d4c981ce5" />
-
 # My keyboard stuff
 
 ### Zigmkay
