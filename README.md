@@ -1,3 +1,4 @@
+<img width="640" height="481" alt="st" src="https://github.com/user-attachments/assets/25448916-a8e2-4309-870c-753d4c981ce5" />
 
 # My keyboard stuff
 
@@ -9,7 +10,7 @@ Custom keyboard firmware made in zig using microzig
 Repo: https://github.com/zigmkay/zigmkay_firmware
 
 ### Tucky Two Times
-[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" />](https://github.com/StephanMoeller/Leonardo-KeycapRio/)
+[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/b906535b-1b10-44fe-9419-81db94d2b1ec" />](https://github.com/StephanMoeller/Tucky-Two-Times/)
 
 Custom chocv2 (+v1) hotswap keyboard with rotary encoders.
 <br>
