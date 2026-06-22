@@ -7,14 +7,6 @@ Custom keyboard firmware made in zig using microzig
 <br>
 Repo: https://github.com/zigmkay/zigmkay_firmware
 
-### Tucky Two Times
-[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/b906535b-1b10-44fe-9419-81db94d2b1ec" />](https://github.com/StephanMoeller/Tucky-Two-Times/)
-
-Custom chocv2 (+v1) hotswap keyboard with rotary encoders.
-<br>
-Repo: https://github.com/StephanMoeller/Tucky-two-times/
-
-
 ### Leonardo KeycapRio
 <p align="left">
 <a href="https://github.com/StephanMoeller/Leonardo-KeycapRio">
@@ -27,6 +19,14 @@ Repo: https://github.com/StephanMoeller/Tucky-two-times/
 Custom mx keyboard with a single pcb
 <br>
 Repo: https://github.com/StephanMoeller/Leonardo-KeycapRio/
+
+
+### Tucky Two Times
+[<img width="150" alt="i1" src="https://github.com/user-attachments/assets/b906535b-1b10-44fe-9419-81db94d2b1ec" />](https://github.com/StephanMoeller/Tucky-Two-Times/)
+
+Custom chocv2 (+v1) hotswap keyboard with rotary encoders.
+<br>
+Repo: https://github.com/StephanMoeller/Tucky-two-times/
 
 ### Clacky Chan
 [<img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />](https://github.com/StephanMoeller/clacky-chan)
