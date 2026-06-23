@@ -1,7 +1,7 @@
 # My keyboard stuff
 
 ### Leonardo KeycapRio
-<p align="left">
+<p align="left"> 
 <a href="https://github.com/StephanMoeller/Leonardo-KeycapRio">
 <img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/6d7f492e-940e-45ab-a5bd-baf92979a4bf" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/16bc30fd-a9e7-486c-a03b-a03bf5e06d2b" />
 </a>
@@ -20,7 +20,12 @@ Custom chocv2 (+v1) hotswap keyboard with rotary encoders.
 Repo: https://github.com/StephanMoeller/Tucky-two-times/
 
 ### Clacky Chan
-[<img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />](https://github.com/StephanMoeller/clacky-chan)
+<p align="left"> 
+<a href="https://github.com/StephanMoeller/clacky-chan">
+  <img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />
+  <img width="150" height="1536" alt="image" src="https://github.com/user-attachments/assets/815f3e21-00e9-45cf-a27e-e0634f39df64" />  
+</a>
+</p>
 
 Custom mx keyboard with two piece pcb with trrs connection
 <br>
