@@ -23,7 +23,7 @@ Repo: https://github.com/StephanMoeller/Tucky-two-times/
 <p align="left"> 
 <a href="https://github.com/StephanMoeller/clacky-chan">
   <img width="150" alt="i2" src="https://github.com/user-attachments/assets/d1926968-e642-4cde-8a1e-258ff6087a01" />
-  <img width="150" height="1536" alt="image" src="https://github.com/user-attachments/assets/815f3e21-00e9-45cf-a27e-e0634f39df64" />  
+  <img width="150" alt="image" src="https://github.com/user-attachments/assets/815f3e21-00e9-45cf-a27e-e0634f39df64" />  
 </a>
 </p>
 
