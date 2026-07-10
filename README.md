@@ -3,7 +3,8 @@
 ### Leonardo KeycapRio
 <p align="left"> 
 <a href="https://github.com/StephanMoeller/Leonardo-KeycapRio">
-<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/6d7f492e-940e-45ab-a5bd-baf92979a4bf" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/16bc30fd-a9e7-486c-a03b-a03bf5e06d2b" />
+<img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/6d7f492e-940e-45ab-a5bd-baf92979a4bf" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/16bc30fd-a9e7-486c-a03b-a03bf5e06d2b" /><img width="150" height="2160" alt="image" src="https://github.com/user-attachments/assets/79cbb31a-af78-497d-a55f-9332f33125f5" />
+
 </a>
 </p>
 
