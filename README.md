@@ -1,4 +1,5 @@
 
+
 # My keyboard stuff
 
 ### Leonardo KeycapRio
@@ -6,6 +7,7 @@
 <a href="https://github.com/StephanMoeller/Leonardo-KeycapRio">
 <img width="150" alt="i1" src="https://github.com/user-attachments/assets/2bd1d10d-3b62-4957-b0fe-7ca1e8908cfe" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/6d7f492e-940e-45ab-a5bd-baf92979a4bf" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/16bc30fd-a9e7-486c-a03b-a03bf5e06d2b" /><img width="150" alt="image" src="https://github.com/user-attachments/assets/79cbb31a-af78-497d-a55f-9332f33125f5" /><img width="150" alt="IMG_3996" src="https://github.com/user-attachments/assets/e8906b86-e496-417a-a959-468a2d9a4016" /><img width="150" alt="Untitled" src="https://github.com/user-attachments/assets/0e91bcd8-eca5-4074-8a26-a444d7eb5a6f" />
 
+<img width="150" alt="IMG_4265" src="https://github.com/user-attachments/assets/e3110628-f90e-44c8-adbd-93d3aeafbeaf" />
 
 </a>
 </p>
